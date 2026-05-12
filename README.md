@@ -2,7 +2,7 @@
 
 # `SDB` - Switch Development Board
 
-The `SDB` is a board with differnt type of switches, like push-buttons, a dip-switch, a code switch [SH-7050](#additional-information) and a rotary encoder [PEC12R](#additional-information). The board itself can be driven with a voltage from `3-15V`. The board offers the possibility to switch signals in different ways to any analog/digital development board or any other circuit.
+The `SDB` is a board with differnt type of switches, like push-buttons, a dip-switch, a code switch [SH-7050](#additional-information) and a rotary encoder [PEC12R](#additional-information). The board itself can be driven from `3` to `15V`. The board offers the possibility to switch signals in different ways to any analog/digital development board or any other circuit.
 
 | Experience  | Level                                                                               |
 |:------------|:-----------------------------------------------------------------------------------:|
